@@ -3,5 +3,7 @@ h1{ color: #042940; }
 p{ color: #005C53; }
 { color: #9FC131; }
 { color: #DBF227;}
-body{ background-color: #D6D58E; }
+body{background-image: linear-gradient(to left,#ffc880b9,#5cb049);
+    background-attachment: fixed;}
+
 
